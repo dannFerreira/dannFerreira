@@ -4,11 +4,9 @@
 - Main technologies that I work with:
   - Kotlin
   - Spring
-  - PostgreSQL
-  - Messaging and queues services like SQS and Kafka
-  - Docker
-  - Kubernetes
-  - Monitoring tools, like Grafana for dashboards and Splunk for logging
+  - PostgreSQL and MongoDB
+  - Kafka
+  - AWS
 - I like to read and study about microsservices and Rest APIs, DDD, design patterns, hexagonal architecture, best practices for clean code etc.
 - IT degree.
 
