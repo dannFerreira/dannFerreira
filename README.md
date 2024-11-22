@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-- I’m currently working with backend development for banking services. 
+- I’m a Software Engineer working with backend development and microservices. 
 - Main technologies that I work with:
   - Kotlin
   - Spring
   - PostgreSQL and MongoDB
   - Kafka
   - AWS
-- I like to read and study about microsservices and Rest APIs, DDD, design patterns, hexagonal architecture, best practices for clean code etc.
+- I love travelling, cats, hamburguers, guitars, books, videogames and classical movies!
 - IT degree.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannFerreira&show_icons=true&theme=dark)](https://github.com/dannFerreira/github-readme-stats)
